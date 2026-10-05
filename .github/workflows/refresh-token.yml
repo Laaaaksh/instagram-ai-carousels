@@ -1,0 +1,29 @@
+name: Refresh Instagram token
+
+# Instagram long-lived tokens die after 60 days. Refreshing weekly keeps the publisher running unattended.
+on:
+  schedule:
+    - cron: "0 3 * * 1"  # Mondays 03:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh and store the new token
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+          NEW_TOKEN_FILE: ${{ runner.temp }}/ig_token
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "SECRETS_PAT is not set, so the refreshed token cannot be saved. See SETUP.md step 5." >&2
+            exit 1
+          fi
+          python ig_publish.py refresh-token
+          gh secret set IG_ACCESS_TOKEN --repo "${{ github.repository }}" < "$NEW_TOKEN_FILE"
+          rm -f "$NEW_TOKEN_FILE"

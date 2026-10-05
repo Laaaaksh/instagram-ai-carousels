@@ -1,0 +1,110 @@
+{
+  "series": "AI WEEKLY",
+  "handle": "@lakshsadhwani__",
+  "posts": [
+    {
+      "slug": "01-openai-devday",
+      "tag": "OPENAI DEVDAY",
+      "slides": [
+        {"type": "cover", "title": "OpenAI shipped 20+ products in one day.", "hl": "20+ products", "sub": "Here are the 6 you should know."},
+        {"type": "point", "kicker": "01", "title": "Dots", "lines": ["Always-on agents.", "They learn what matters to you and handle ongoing work.", "Status: beta."]},
+        {"type": "point", "kicker": "02", "title": "GPT-6.1 Sol", "big": "1/5", "bigLabel": "the price of GPT-6 Astra", "lines": ["$2 per million input tokens. $10 per million output.", "Built for coding and computer use."]},
+        {"type": "point", "kicker": "03", "title": "Ultrafast", "big": "300", "bigLabel": "tokens per second, at most", "lines": ["8x faster in Codex. 6x faster in the API."]},
+        {"type": "point", "kicker": "04", "title": "ChatGPT Space", "lines": ["One shared workspace for your team, ChatGPT and your Dots."]},
+        {"type": "point", "kicker": "05", "title": "Pro 500", "big": "$500", "bigLabel": "a month", "lines": ["25x the usage of ChatGPT Plus."]},
+        {"type": "point", "kicker": "06", "title": "Sign in with ChatGPT", "lines": ["Log in to other apps with your ChatGPT account.", "16 launch partners, including Notion and Vercel."]},
+        {"type": "cta", "title": "Which one would you try first?", "sub": "Save this post. Follow for weekly AI news."}
+      ]
+    },
+    {
+      "slug": "02-claude-5-5",
+      "tag": "ANTHROPIC",
+      "slides": [
+        {"type": "cover", "title": "Anthropic released two new Claude models in 6 days.", "hl": "two new Claude models", "sub": "Both cost you less per task."},
+        {"type": "point", "kicker": "22 SEPT", "title": "Claude Opus 5.5", "big": "40%", "bigLabel": "cheaper to run than Opus 5", "lines": ["Matches Claude Fable 5.1 on most work.", "30% faster output."]},
+        {"type": "point", "kicker": "22 SEPT", "title": "Opus 5.5 specs", "lines": ["$4 in, $20 out per million tokens.", "1 million token context window.", "Live on AWS, Google Cloud and Azure."]},
+        {"type": "point", "kicker": "28 SEPT", "title": "Claude Sonnet 5.5", "big": "$2 / $10", "bigLabel": "in / out per million tokens", "lines": ["Same price as Sonnet 5."]},
+        {"type": "point", "kicker": "THE REAL WIN", "title": "Token efficiency", "big": "4x", "bigLabel": "fewer tokens on the same task", "lines": ["One customer task on Sonnet 5: 497,000 tokens.", "Same task on Sonnet 5.5: 121,000 tokens."]},
+        {"type": "point", "kicker": "BENCHMARKS", "title": "Close to Opus, half the price", "lines": ["Sonnet 5.5 lands within 3 points of Opus 5.5 on launch benchmarks.", "At half the price."]},
+        {"type": "cta", "title": "Which Claude do you use most?", "sub": "Follow for weekly AI news."}
+      ]
+    },
+    {
+      "slug": "03-anthropic-ipo",
+      "tag": "IPO WATCH",
+      "slides": [
+        {"type": "cover", "title": "Anthropic wants a valuation above $2 trillion.", "hl": "$2 trillion", "sub": "The prospectus shows the cost."},
+        {"type": "point", "kicker": "REVENUE", "title": "Revenue", "big": "11x", "bigLabel": "growth in one year", "lines": ["2024: about $400 million.", "2025: about $4.6 billion."]},
+        {"type": "point", "kicker": "LOSSES", "title": "Operating loss", "big": "$8B+", "bigLabel": "lost on operations in 2025"},
+        {"type": "point", "kicker": "COMPUTE", "title": "Compute commitments", "big": "$518B", "bigLabel": "over the next 10 years"},
+        {"type": "point", "kicker": "CASH", "title": "Cash on hand", "big": "$20.3B", "bigLabel": "at the end of 2025"},
+        {"type": "point", "kicker": "FOR SCALE", "title": "For scale", "lines": ["SpaceX listed at $1.77 trillion in June.", "Anthropic aims higher.", "Expected debut: after the November US midterms."]},
+        {"type": "point", "kicker": "THE FINE PRINT", "title": "A rare line in an IPO filing", "lines": ["A warning about risks AI poses to humanity."]},
+        {"type": "cta", "title": "Would you buy shares?", "sub": "Yes or no in the comments."}
+      ]
+    },
+    {
+      "slug": "04-ai-cybersecurity",
+      "tag": "CYBERSECURITY",
+      "slides": [
+        {"type": "cover", "title": "Hackers now weaponize a new bug in under 24 hours.", "hl": "under 24 hours.", "sub": "Companies take 30 to 60 days to patch."},
+        {"type": "point", "kicker": "THE SOURCE", "title": "Microsoft Digital Defense Report 2026", "lines": ["Verdict: AI handed attackers the early lead."]},
+        {"type": "point", "kicker": "A FIRST", "title": "Fully autonomous attack chains", "big": "32", "bigLabel": "steps, run by AI", "lines": ["Tested against enterprise networks built for the trial."]},
+        {"type": "point", "kicker": "RECORD YEAR", "title": "Published vulnerabilities", "big": "72,000", "bigLabel": "expected in 2026"},
+        {"type": "point", "kicker": "DEFENCE", "title": "Defenders fight back", "big": "68%", "bigLabel": "Gemini 4 Argon on CWE-bench v1", "lines": ["Google's model finds, checks and fixes security bugs on its own.", "Access: trusted cyber defenders only, for now."]},
+        {"type": "list", "kicker": "YOUR MOVE", "title": "What you should do today", "items": ["Turn on auto-updates.", "Use two-factor login everywhere.", "Use a password manager."]},
+        {"type": "cta", "title": "Send this to the person who never updates their phone.", "sub": "Follow for weekly AI news."}
+      ]
+    },
+    {
+      "slug": "05-google-science",
+      "tag": "GOOGLE SCIENCE",
+      "slides": [
+        {"type": "cover", "title": "Google shipped 15+ AI updates in September.", "hl": "15+ AI updates", "sub": "The science ones matter most."},
+        {"type": "point", "kicker": "GENETICS", "title": "AlphaGenome Atlas", "big": "9B", "bigLabel": "possible single-letter DNA changes", "lines": ["The model predicts the effect of each one."]},
+        {"type": "point", "kicker": "NEUROSCIENCE", "title": "Full fruit fly brain map", "big": "166,000+", "bigLabel": "neurons mapped", "lines": ["About 12,000 cell types."]},
+        {"type": "point", "kicker": "CLIMATE", "title": "MAPL-EMIT", "big": "23,000+", "bigLabel": "methane plumes no one had mapped", "lines": ["Scans satellite images for methane leaks."]},
+        {"type": "point", "kicker": "WEATHER", "title": "WeatherNext 3", "lines": ["Weather forecasts with live satellite data and hourly updates."]},
+        {"type": "point", "kicker": "SPACE", "title": "Project Suncatcher", "big": "8x", "bigLabel": "more solar power than on the ground", "lines": ["A test satellite to run Google AI chips in orbit."]},
+        {"type": "cta", "title": "Which one surprised you most?", "sub": "Follow for weekly AI news."}
+      ]
+    },
+    {
+      "slug": "06-ai-prices",
+      "tag": "PRICE CHECK",
+      "slides": [
+        {"type": "cover", "title": "Frontier AI prices converged this month.", "hl": "converged", "sub": "Here is what you pay per million tokens."},
+        {"type": "point", "kicker": "XAI / 21 SEPT", "title": "Grok 4.7", "big": "$2 / $6", "bigLabel": "in / out per million tokens", "lines": ["500K context. Price doubles past 200K tokens."]},
+        {"type": "point", "kicker": "OPENAI / 29 SEPT", "title": "GPT-6.1 Sol", "big": "$2 / $10", "bigLabel": "in / out per million tokens"},
+        {"type": "point", "kicker": "ANTHROPIC / 28 SEPT", "title": "Claude Sonnet 5.5", "big": "$2 / $10", "bigLabel": "in / out per million tokens"},
+        {"type": "point", "kicker": "ANTHROPIC / 22 SEPT", "title": "Claude Opus 5.5", "big": "$4 / $20", "bigLabel": "in / out per million tokens"},
+        {"type": "point", "kicker": "THE TAKEAWAY", "title": "Compare on tokens per task", "lines": ["List prices sit close together.", "Compare on tokens per task and speed instead."]},
+        {"type": "cta", "title": "Save this for your next API bill.", "sub": "Follow for weekly AI news."}
+      ]
+    },
+    {
+      "slug": "07-ai-and-your-job",
+      "tag": "AI AND WORK",
+      "slides": [
+        {"type": "cover", "title": "3 AI stories from this week about your job.", "hl": "your job.", "sub": "A law, a test and a study."},
+        {"type": "point", "kicker": "THE LAW", "title": "California SB 947", "lines": ["No firing by algorithm alone.", "A human must confirm the decision.", "Starts 1 July 2027."]},
+        {"type": "point", "kicker": "THE TEST", "title": "AI vs accountants", "big": "~100%", "bigLabel": "score on month-end close tasks", "lines": ["Beat the best human in the test on accuracy and time.", "Cost: under a tenth of the human cost per task."]},
+        {"type": "point", "kicker": "THE STUDY", "title": "AI vs real people", "big": "12 pts", "bigLabel": "average error on about 300 survey questions", "lines": ["On 28% of questions, the gap passed 15 points.", "AI does not replace asking real people."]},
+        {"type": "cta", "title": "Which story worries you most?", "sub": "Tell me below."}
+      ]
+    },
+    {
+      "slug": "08-quick-hits",
+      "tag": "QUICK HITS",
+      "slides": [
+        {"type": "cover", "title": "5 AI stories you missed this week.", "hl": "5 AI stories", "sub": "One swipe each."},
+        {"type": "point", "kicker": "GAMES", "title": "AI beats a Stratego champion", "big": "15-1", "bigLabel": "wins, with 4 draws, in 20 games", "lines": ["Training cost: a few thousand dollars."]},
+        {"type": "point", "kicker": "SPEECH", "title": "MAI-Transcribe-2-Streaming", "big": "100ms", "bigLabel": "to first words, in 60 languages", "lines": ["Ranked number 1 on Artificial Analysis."]},
+        {"type": "point", "kicker": "TRANSLATION", "title": "Bilibili Index-Translate", "big": "150", "bigLabel": "languages", "lines": ["Uses 3 billion of its 35 billion parameters per word."]},
+        {"type": "point", "kicker": "FUNDING", "title": "Armadin", "big": "$2.5B", "bigLabel": "valuation at 7 months old", "lines": ["The cyber startup raised $255.5 million."]},
+        {"type": "point", "kicker": "TOOLS", "title": "Gemini for Windows", "big": "Alt + Space", "bigLabel": "opens Google's assistant on your PC"},
+        {"type": "cta", "title": "Follow so you stop missing these.", "sub": "New AI news every week."}
+      ]
+    }
+  ]
+}

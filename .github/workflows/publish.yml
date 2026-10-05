@@ -1,0 +1,40 @@
+name: Publish due Instagram posts
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"  # GitHub may start this a few minutes late; ig_publish.py tolerates that
+  workflow_dispatch: {}
+
+# Two runs at once could both publish the same post. Queue them instead.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publish whatever is due
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/publish
+        run: python ig_publish.py run
+      # Save the new status even when publishing failed, so the next run knows what happened.
+      - name: Save schedule status
+        if: always()
+        run: |
+          if ! git diff --quiet schedule.json; then
+            git config user.name "ig-publisher"
+            git config user.email "actions@users.noreply.github.com"
+            git add schedule.json
+            git commit -m "schedule: update status"
+            git pull --rebase && git push
+          fi

@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "slug": "01-openai-devday",
+      "when": "2026-10-07T19:00:00+05:30",
+      "caption": "OpenAI DevDay 2026 happened on 29 September. The headline: AI agents you leave running all day. Dots and a cheaper Sol model are the two to watch. Which launch matters most to you? Tell me in the comments.",
+      "images": [
+        "01-openai-devday/slide-01.jpg",
+        "01-openai-devday/slide-02.jpg",
+        "01-openai-devday/slide-03.jpg",
+        "01-openai-devday/slide-04.jpg",
+        "01-openai-devday/slide-05.jpg",
+        "01-openai-devday/slide-06.jpg",
+        "01-openai-devday/slide-07.jpg",
+        "01-openai-devday/slide-08.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    },
+    {
+      "slug": "04-ai-cybersecurity",
+      "when": "2026-10-08T19:00:00+05:30",
+      "caption": "Microsoft's yearly security report is out. Bugs become weapons in under a day. Patches still take weeks. Turn on auto-updates tonight. Share this with your family group chat.",
+      "images": [
+        "04-ai-cybersecurity/slide-01.jpg",
+        "04-ai-cybersecurity/slide-02.jpg",
+        "04-ai-cybersecurity/slide-03.jpg",
+        "04-ai-cybersecurity/slide-04.jpg",
+        "04-ai-cybersecurity/slide-05.jpg",
+        "04-ai-cybersecurity/slide-06.jpg",
+        "04-ai-cybersecurity/slide-07.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    },
+    {
+      "slug": "02-claude-5-5",
+      "when": "2026-10-09T19:00:00+05:30",
+      "caption": "Price per token stayed flat. Tokens per task dropped by about 4x. If you pay for AI by usage, Sonnet 5.5 cuts your bill without a price change. Which model do you use day to day?",
+      "images": [
+        "02-claude-5-5/slide-01.jpg",
+        "02-claude-5-5/slide-02.jpg",
+        "02-claude-5-5/slide-03.jpg",
+        "02-claude-5-5/slide-04.jpg",
+        "02-claude-5-5/slide-05.jpg",
+        "02-claude-5-5/slide-06.jpg",
+        "02-claude-5-5/slide-07.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    },
+    {
+      "slug": "06-ai-prices",
+      "when": "2026-10-10T19:00:00+05:30",
+      "caption": "Three labs launched new models in 9 days, and the prices landed in the same place. The cheaper model is the one using fewer tokens on your job. Test on your own tasks before you switch.",
+      "images": [
+        "06-ai-prices/slide-01.jpg",
+        "06-ai-prices/slide-02.jpg",
+        "06-ai-prices/slide-03.jpg",
+        "06-ai-prices/slide-04.jpg",
+        "06-ai-prices/slide-05.jpg",
+        "06-ai-prices/slide-06.jpg",
+        "06-ai-prices/slide-07.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    },
+    {
+      "slug": "03-anthropic-ipo",
+      "when": "2026-10-11T19:00:00+05:30",
+      "caption": "Anthropic published its IPO prospectus on 29 September. Revenue grew 11x in a year. Losses grew too. The company has signed up for $518 billion in compute over a decade. Would you invest at $2 trillion?",
+      "images": [
+        "03-anthropic-ipo/slide-01.jpg",
+        "03-anthropic-ipo/slide-02.jpg",
+        "03-anthropic-ipo/slide-03.jpg",
+        "03-anthropic-ipo/slide-04.jpg",
+        "03-anthropic-ipo/slide-05.jpg",
+        "03-anthropic-ipo/slide-06.jpg",
+        "03-anthropic-ipo/slide-07.jpg",
+        "03-anthropic-ipo/slide-08.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    },
+    {
+      "slug": "08-quick-hits",
+      "when": "2026-10-12T19:00:00+05:30",
+      "caption": "Five stories, one swipe. A cheap AI beats a board game champion, live translation drops to 100 milliseconds, and a 7-month-old startup hits a $2.5 billion valuation. Which one would you want a full post on?",
+      "images": [
+        "08-quick-hits/slide-01.jpg",
+        "08-quick-hits/slide-02.jpg",
+        "08-quick-hits/slide-03.jpg",
+        "08-quick-hits/slide-04.jpg",
+        "08-quick-hits/slide-05.jpg",
+        "08-quick-hits/slide-06.jpg",
+        "08-quick-hits/slide-07.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    },
+    {
+      "slug": "05-google-science",
+      "when": "2026-10-13T19:00:00+05:30",
+      "caption": "Chatbots get the headlines. Google's September science releases do the quiet work: DNA, brains, methane, weather, and data centres in space. Which one would you read more about?",
+      "images": [
+        "05-google-science/slide-01.jpg",
+        "05-google-science/slide-02.jpg",
+        "05-google-science/slide-03.jpg",
+        "05-google-science/slide-04.jpg",
+        "05-google-science/slide-05.jpg",
+        "05-google-science/slide-06.jpg",
+        "05-google-science/slide-07.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    },
+    {
+      "slug": "07-ai-and-your-job",
+      "when": "2026-10-14T19:00:00+05:30",
+      "caption": "One law protects workers. One test shows AI doing accounting work at a tenth of the cost. One study shows AI still fails at guessing what people think. Where does your job sit?",
+      "images": [
+        "07-ai-and-your-job/slide-01.jpg",
+        "07-ai-and-your-job/slide-02.jpg",
+        "07-ai-and-your-job/slide-03.jpg",
+        "07-ai-and-your-job/slide-04.jpg",
+        "07-ai-and-your-job/slide-05.jpg"
+      ],
+      "status": "pending",
+      "media_id": null,
+      "permalink": null,
+      "last_error": null
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+AI NEWS CAROUSELS, WEEK OF 3 OCTOBER 2026
+8 posts. Each has slide text, a caption, and sources for your own fact check.
+
+
+==================================================
+POST 1. OpenAI DevDay: the 6 launches worth knowing
+==================================================
+
+Slide 1 (cover)
+OpenAI shipped 20+ products in one day.
+Here are the 6 you should know.
+
+Slide 2
+Dots
+Always-on agents.
+They learn what matters to you and handle ongoing work.
+Status: beta.
+
+Slide 3
+GPT-6.1 Sol
+One fifth the price of GPT-6 Astra.
+$2 per million input tokens. $10 per million output.
+Built for coding and computer use.
+
+Slide 4
+Ultrafast
+Up to 300 tokens per second.
+8x faster in Codex. 6x faster in the API.
+
+Slide 5
+ChatGPT Space
+One shared workspace for your team, ChatGPT and your Dots.
+
+Slide 6
+Pro 500
+$500 a month.
+25x the usage of ChatGPT Plus.
+
+Slide 7
+Sign in with ChatGPT
+Log in to other apps with your ChatGPT account.
+16 launch partners, including Notion and Vercel.
+
+Slide 8 (CTA)
+Which one would you try first?
+Save this post. Follow for weekly AI news.
+
+Caption
+OpenAI DevDay 2026 happened on 29 September. The headline: AI agents you leave running all day. Dots and a cheaper Sol model are the two to watch. Which launch matters most to you? Tell me in the comments.
+
+Sources
+https://learnetto.com/openai-devday-2026-announcements
+https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html
+
+
+==================================================
+POST 2. Anthropic shipped two Claude models in 6 days
+==================================================
+
+Slide 1 (cover)
+Anthropic released two new Claude models in 6 days.
+Both cost you less per task.
+
+Slide 2
+Claude Opus 5.5 (22 Sept)
+Matches Claude Fable 5.1 on most work.
+40% cheaper to run than Opus 5.
+30% faster output.
+
+Slide 3
+Opus 5.5 specs
+$4 in, $20 out per million tokens.
+1 million token context window.
+Live on AWS, Google Cloud and Azure.
+
+Slide 4
+Claude Sonnet 5.5 (28 Sept)
+$2 in, $10 out per million tokens.
+Same price as Sonnet 5.
+
+Slide 5
+The real win is token efficiency.
+One customer task on Sonnet 5: 497,000 tokens.
+Same task on Sonnet 5.5: 121,000 tokens.
+About 4x fewer.
+
+Slide 6
+Sonnet 5.5 lands within 3 points of Opus 5.5 on launch benchmarks.
+At half the price.
+
+Slide 7 (CTA)
+Which Claude do you use most?
+Follow for weekly AI news.
+
+Caption
+Price per token stayed flat. Tokens per task dropped by about 4x. If you pay for AI by usage, Sonnet 5.5 cuts your bill without a price change. Which model do you use day to day?
+
+Sources
+https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/
+https://www.eesel.ai/blog/claude-sonnet-5-5
+https://cellcog.ai/blog/claude-sonnet-5-5-release-date/
+
+
+==================================================
+POST 3. The Anthropic IPO in 6 numbers
+==================================================
+
+Slide 1 (cover)
+Anthropic wants a valuation above $2 trillion.
+The prospectus shows the cost.
+
+Slide 2
+Revenue
+2024: about $400 million.
+2025: about $4.6 billion.
+11x in one year.
+
+Slide 3
+Operating loss in 2025
+Over $8 billion.
+
+Slide 4
+Compute commitments
+$518 billion over the next 10 years.
+
+Slide 5
+Cash on hand
+$20.3 billion at the end of 2025.
+
+Slide 6
+For scale
+SpaceX listed at $1.77 trillion in June.
+Anthropic aims higher.
+Expected debut: after the November US midterms.
+
+Slide 7
+One line you rarely see in an IPO filing:
+a warning about risks AI poses to humanity.
+
+Slide 8 (CTA)
+Would you buy shares?
+Yes or no in the comments.
+
+Caption
+Anthropic published its IPO prospectus on 29 September. Revenue grew 11x in a year. Losses grew too. The company has signed up for $518 billion in compute over a decade. Would you invest at $2 trillion?
+
+Sources
+https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html
+https://fortune.com/2026/09/29/anthropic-leaked-ipo-prospectus-losses-growth-ai-end-humanity/
+https://www.kiplinger.com/investing/ipos/anthropic-to-seek-trillion-ipo-valuation
+
+
+==================================================
+POST 4. AI gave hackers a head start
+==================================================
+
+Slide 1 (cover)
+Hackers now weaponize a new bug in under 24 hours.
+Companies take 30 to 60 days to patch.
+
+Slide 2
+Source: Microsoft Digital Defense Report 2026.
+Verdict: AI handed attackers the early lead.
+
+Slide 3
+First fully autonomous attack chains.
+32 steps. Run by AI against test enterprise networks.
+
+Slide 4
+2026 is on track for a record 72,000 published vulnerabilities.
+
+Slide 5
+Defenders fight back.
+Google Gemini 4 Argon finds, checks and fixes security bugs on its own.
+Score: 68% on CWE-bench v1.
+Access: trusted cyber defenders only, for now.
+
+Slide 6
+What you should do today
+1. Turn on auto-updates.
+2. Use two-factor login everywhere.
+3. Use a password manager.
+
+Slide 7 (CTA)
+Send this to the person who never updates their phone.
+
+Caption
+Microsoft's yearly security report is out. Bugs become weapons in under a day. Patches still take weeks. Turn on auto-updates tonight. Share this with your family group chat.
+
+Sources
+https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/
+https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/
+https://aiweekly.co/ai-news-today/edition/2026-10-01
+
+
+==================================================
+POST 5. 5 science wins from Google AI in September
+==================================================
+
+Slide 1 (cover)
+Google shipped 15+ AI updates in September.
+The science ones matter most.
+
+Slide 2
+AlphaGenome Atlas
+Predicts the effect of all 9 billion possible single-letter changes in human DNA.
+
+Slide 3
+Full fruit fly brain map
+166,000+ neurons.
+About 12,000 cell types.
+
+Slide 4
+MAPL-EMIT
+Scans satellite images for methane leaks.
+Found 23,000+ plumes no one had mapped.
+
+Slide 5
+WeatherNext 3
+Weather forecasts with live satellite data and hourly updates.
+
+Slide 6
+Project Suncatcher
+A test satellite to run Google AI chips in orbit.
+Up to 8x more solar power than on the ground.
+
+Slide 7 (CTA)
+Which one surprised you most?
+Follow for weekly AI news.
+
+Caption
+Chatbots get the headlines. Google's September science releases do the quiet work: DNA, brains, methane, weather, and data centres in space. Which one would you read more about?
+
+Sources
+https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/
+
+
+==================================================
+POST 6. What frontier AI costs you now
+==================================================
+
+Slide 1 (cover)
+Frontier AI prices converged this month.
+Here is what you pay per million tokens.
+
+Slide 2
+Grok 4.7 (xAI, 21 Sept)
+$2 in, $6 out.
+500K context. Price doubles past 200K tokens.
+
+Slide 3
+GPT-6.1 Sol (OpenAI, 29 Sept)
+$2 in, $10 out.
+
+Slide 4
+Claude Sonnet 5.5 (Anthropic, 28 Sept)
+$2 in, $10 out.
+
+Slide 5
+Claude Opus 5.5 (Anthropic, 22 Sept)
+$4 in, $20 out.
+
+Slide 6
+The takeaway
+List prices sit close together.
+Compare on tokens per task and speed instead.
+
+Slide 7 (CTA)
+Save this for your next API bill.
+
+Caption
+Three labs launched new models in 9 days, and the prices landed in the same place. The cheaper model is the one using fewer tokens on your job. Test on your own tasks before you switch.
+
+Sources
+https://www.lindy.ai/blog/grok-4-7
+https://aiweekly.co/ai-news-today/edition/2026-10-01
+https://www.eesel.ai/blog/claude-sonnet-5-5
+https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/
+
+
+==================================================
+POST 7. 3 AI stories about your job
+==================================================
+
+Slide 1 (cover)
+3 AI stories from this week about your job.
+
+Slide 2
+California SB 947
+No firing by algorithm alone.
+A human must confirm the decision.
+Starts 1 July 2027.
+
+Slide 3
+AI vs accountants
+Top models scored near 100% on month-end close tasks.
+They beat the best human in the test on accuracy and time.
+Cost: under a tenth of the human cost per task.
+
+Slide 4
+AI vs real people
+Pew tested AI "synthetic surveys" on about 300 questions.
+Average error: 12 points.
+On 28% of questions, the gap passed 15 points.
+AI does not replace asking real people.
+
+Slide 5 (CTA)
+Which story worries you most?
+Tell me below.
+
+Caption
+One law protects workers. One test shows AI doing accounting work at a tenth of the cost. One study shows AI still fails at guessing what people think. Where does your job sit?
+
+Sources
+https://aiweekly.co/ai-news-today/edition/2026-10-01
+https://aiweekly.co/ai-news-today
+
+
+==================================================
+POST 8. 5 quick AI stories you missed
+==================================================
+
+Slide 1 (cover)
+5 AI stories you missed this week.
+
+Slide 2
+An AI beat a top Stratego player 15 to 1, with 4 draws, in 20 games.
+Training cost: a few thousand dollars.
+
+Slide 3
+Microsoft MAI-Transcribe-2-Streaming
+Live speech to text in 60 languages.
+First words appear in about 100 milliseconds.
+Ranked number 1 on Artificial Analysis.
+
+Slide 4
+Bilibili Index-Translate
+Translation model for 150 languages.
+Uses 3 billion of its 35 billion parameters per word.
+
+Slide 5
+Armadin, a 7-month-old cyber startup, raised $255.5 million.
+Valuation: $2.5 billion.
+
+Slide 6
+Gemini for Windows
+Press Alt + Space on your PC to open Google's assistant.
+
+Slide 7 (CTA)
+Follow so you stop missing these.
+
+Caption
+Five stories, one swipe. A cheap AI beats a board game champion, live translation drops to 100 milliseconds, and a 7-month-old startup hits a $2.5 billion valuation. Which one would you want a full post on?
+
+Sources
+https://aiweekly.co/ai-news-today/edition/2026-10-01
+https://www.digitalapplied.com/blog/ai-model-releases-october-2026-tracker
+https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/
