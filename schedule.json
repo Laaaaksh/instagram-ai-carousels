@@ -14,10 +14,10 @@
         "01-openai-devday/slide-07.jpg",
         "01-openai-devday/slide-08.jpg"
       ],
-      "status": "pending",
+      "status": "missed",
       "media_id": null,
       "permalink": null,
-      "last_error": null
+      "last_error": "7.8h late (limit 6.0h). Run: ig_publish.py shift --start <date>"
     },
     {
       "slug": "04-ai-cybersecurity",
