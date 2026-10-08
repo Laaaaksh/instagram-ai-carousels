@@ -32,10 +32,10 @@
         "04-ai-cybersecurity/slide-06.jpg",
         "04-ai-cybersecurity/slide-07.jpg"
       ],
-      "status": "pending",
+      "status": "missed",
       "media_id": null,
       "permalink": null,
-      "last_error": null
+      "last_error": "6.7h late (limit 6.0h). Run: ig_publish.py shift --start <date>"
     },
     {
       "slug": "02-claude-5-5",
