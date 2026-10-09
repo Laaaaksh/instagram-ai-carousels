@@ -50,10 +50,10 @@
         "02-claude-5-5/slide-06.jpg",
         "02-claude-5-5/slide-07.jpg"
       ],
-      "status": "pending",
+      "status": "missed",
       "media_id": null,
       "permalink": null,
-      "last_error": null
+      "last_error": "9.6h late (limit 6.0h). Run: ig_publish.py shift --start <date>"
     },
     {
       "slug": "06-ai-prices",
