@@ -68,10 +68,10 @@
         "06-ai-prices/slide-06.jpg",
         "06-ai-prices/slide-07.jpg"
       ],
-      "status": "pending",
+      "status": "missed",
       "media_id": null,
       "permalink": null,
-      "last_error": null
+      "last_error": "8.6h late (limit 6.0h). Run: ig_publish.py shift --start <date>"
     },
     {
       "slug": "03-anthropic-ipo",
